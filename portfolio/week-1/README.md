@@ -1,45 +1,50 @@
-Week 1 – SQL Data Exploration
+# Week 1 – SQL Data Exploration
 
-Individual Work: Sales Data Exploration
+**Individual Work: Sales Data Exploration**
 
-Objective
+---
+
+## Objective
 
 The objective of this analysis was to explore the UrbanStyle sales dataset, identify duplicate sales records and assess their impact on data quality.
 
-Analysis Performed
+## Analysis Performed
 
 Five SQL queries were developed to:
 
-Explore the overall sales dataset.
+1. Explore the overall sales dataset.
+2. Identify repeated sale IDs.
+3. Inspect individual records with repeated sale IDs.
+4. Identify exact duplicate records based on business attributes.
+5. Measure the impact of exact duplicate records.
 
-Identify repeated sale IDs.
+## Key Findings
 
-Inspect individual records with repeated sale IDs.
+| Metric | Result |
+|---|---:|
+| Total sales records | 15,234 |
+| Unique sale IDs | 10,118 |
+| Unique customers | 2,558 |
+| Unique products | 350 |
+| Exact duplicate groups | 3,456 |
+| Records in duplicate groups | 7,759 |
+| Excess duplicate records | **4,303** |
 
-Identify exact duplicate records based on business attributes.
+## Conclusion
 
-Measure the impact of exact duplicate records.
+The analysis identified significant duplication in the sales dataset.
 
-Key Findings
+A total of 3,456 groups of exact duplicate records were identified, containing 4,303 excess duplicate records.
 
-The sales table contains 15,234 rows.
+These findings indicate potential data quality issues requiring further investigation.
 
-There are 10,118 unique sale IDs.
+**Note:** No source data was modified or deleted during this analysis.
 
-The dataset contains 3,456 groups of exact duplicate records.
+## Deliverables
 
-These groups contain 7,759 rows, including 4,303 excess duplicate records.
+- [SQL Exploration Queries](individual/week1_sales_exploration.sql)
+- [Results Screenshot](individual/week1_results_screenshot.png)
 
-Conclusion
+---
 
-The analysis identified significant duplication in the sales dataset. Further investigation and data quality improvements are required. No source data was modified or deleted.
-
-Files
-
-individual/week1_sales_exploration.sql – SQL queries and findings.
-
-individual/week1_results_screenshot.png – screenshot of the analysis results.
-
-Team Work
-
-The individual analysis contributes to the team's overall Data Landscape assessment.
+*DACA – Data Analytics Career Accelerator | Week 1*š
