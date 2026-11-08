@@ -4,12 +4,12 @@
 
 ## 1. MEESKONNA LIIKMED
 
-| Meeskonnaliige | Operatsioonisüsteem |
+| Meeskonnaliige | Operatsioonisüsteem | Nädala 0 roll |
 |---|---|
-| Sigrid Nieländer | Windows |
-| Maarja Valmas | Windows |
-| Marleen Aavere | Windows |
-| Marje Piirisild | macOS / Windows |
+| Sigrid Nieländer | Windows | A: GitHub Repo Seadistaja | 
+| Maarja Valmas | Windows | B: Supabase Seadistaja | 
+| Marleen Aavere | Windows | C: NotebookLM Seadistaja | 
+| Marje Piirisild | macOS / Windows | D: Team Charter Koostaja | 
 
 ## 2. ÜHISED TÖÖRIISTAD
 
@@ -42,7 +42,7 @@ Rollid roteeruvad igal nädalal ühe koha võrra: A → B → C → D → A.
 
 ## 5. KOKKULEPETE KINNITAMINE
 
-Iga meeskonnaliige kinnitab isiklikult, et on Team Charteris kirjeldatud põhimõtted läbi lugenud ning nõustub neid järgima.
+Iga meeskonnaliige kinnitab, et on Team Charteris kirjeldatud põhimõtted läbi lugenud ning nõustub neid järgima.
 
 | Meeskonnaliige | Kinnitus | Kuupäev |
 |---|---|---|
