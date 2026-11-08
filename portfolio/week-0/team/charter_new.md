@@ -5,7 +5,7 @@
 ## 1. MEESKONNA LIIKMED
 
 | Meeskonnaliige | Operatsioonisüsteem | Nädala 0 roll |
-|---|---|
+|---|---|---|
 | Sigrid Nieländer | Windows | A: GitHub Repo Seadistaja | 
 | Maarja Valmas | Windows | B: Supabase Seadistaja | 
 | Marleen Aavere | Windows | C: NotebookLM Seadistaja | 
@@ -26,7 +26,7 @@
 - **Abi ja koostöö.** Kui meeskonnaliige jääb ülesande täitmisel hätta, kuulavad teised tema probleemi ära ning jagavad võimaluse korral oma teadmisi ja kogemusi. Kui kohest lahendust ei leita, otsitakse sobivat lahendust ühiselt.
 - **Kohtumised ja ajakasutus.** Regulaarseid lisakohtumisi väljaspool õppesessioone ei planeerita. Vajaduse korral lepitakse täiendav kohtumisaeg kokku jooksvalt, arvestades kõigi liikmete võimalustega.
 - **Puudumised ja kaasatus.** Teavitame võimaluse korral teisi oma osalemist takistavatest asjaoludest ning leiame ühiselt lahenduse, et iga meeskonnaliige saaks panustada ka siis, kui ta ei saa grupitöös ettenähtud ajal osaleda.
-- **Avatud, positiivne ja mõistev suhtlus.** Suhtume üksteisesse avatult, positiivselt ja mõistvalt. Kuulame ära teise inimese seisukoha ning anname talle võimaluse oma mõtteid, käitumist ja otsuseid selgitada, enne kui kujundame nende kohta hinnanguid. Probleemid räägime selgeks meeskonna sees.
+- **Avatud, positiivne ja mõistev suhtlus.** Suhtume üksteisesse avatult, positiivselt ja mõistvalt. Kuulame ära teiste seisukohad ning anname võimaluse oma mõtteid, käitumist ja otsuseid selgitada, enne kui kujundame nende kohta hinnanguid. Probleemid räägime selgeks meeskonna sees.
 - **Meeskonnatöö ja ühine vastutus.** Meeskonnatöö ei tähenda ainult ühise eesmärgi saavutamist, vaid ka seda, kuidas me üksteisega arvestame ning loome kõigile võimaluse õppida, panustada ja areneda, arvestades iga liikme individuaalse võimekuse ja töötempoga.
 
 ## 4. ROLLIDE ROTATSIOON
